@@ -17,13 +17,13 @@ The title consists of the type of the message and subject.
 The Type
 The type is contained within the title and can be one of these types:
 
-1.feat: a new feature
-2.fix: a bug fix
-3.docs: changes to documentation
-4.style: formatting, missing semi colons, etc; no code change
-5.refactor: refactoring production code
-6.test: adding tests, refactoring test; no production code change
-7.chore: updating build tasks, package manager configs, etc; no production code change
+* feat: a new feature
+* fix: a bug fix
+* docs: changes to documentation
+* style: formatting, missing semi colons, etc; no code change
+* refactor: refactoring production code
+* test: adding tests, refactoring test; no production code change
+* chore: updating build tasks, package manager configs, etc; no production code change
 The Subject
 Subjects should be no greater than 50 characters, should begin with a capital letter and do not end with a period.
 
